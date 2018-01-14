@@ -1,3 +1,3 @@
 # JAVA WEB + CRUD 
- I created a web application in Java
-performing crud functions.
+I created a web application in Java using Servlets that
+performs some crud functions
