@@ -1,4 +1,4 @@
-# JAVA WEB + CRUD 
+# JAVA WEB + CRUD + Servlet
 
 -> Project Resource: Create a web application in java that performs CRUD and CSV reading.
 
